@@ -589,7 +589,7 @@ span.text-red {
 }
 .success h2{
   text-transform: capitalize;
-  margin-top: 15px;
+  margin-top: 15px 0px;
   font-weight: 900;
   font-size: 40px;
   color:#324d67;
